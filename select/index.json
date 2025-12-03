@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "NOTFORSALE",
+  "base_artist": "Benjazzy",
+  "createdAt": "2025-12-03T11:43:07.289086Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "NOTFORSALE",
+      "artist": "Benjazzy",
+      "has_synced": false,
+      "path": "select/01_NOTFORSALE_Benjazzy.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "NOTFORSALE",
+      "artist": "Benjazzy",
+      "has_synced": false,
+      "path": "select/pl_01_NOTFORSALE_Benjazzy.txt"
+    }
+  ]
+}
